@@ -1,0 +1,244 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #B3B6B7;
+}
+
+header{
+	width: 100%;
+	background: url(images/header2.jpg) no-repeat;
+	background-size: cover;
+	height: 700px;
+}
+.box{
+	border-radius: 15%;
+	width: 450px;
+	background: rgba(0, 0, 0, 0.7);
+	padding: 40px;
+	text-align: center;
+	margin: auto;
+	color: white;  
+}
+
+.box-image{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.box h1{
+	font-size: 40px;
+	letter-spacing: 3px;
+	font-weight: 100;
+}
+
+.box h5{
+	font-size: 20px;
+	letter-spacing: 3px;
+	font-weight: 100;
+	text-decoration: underline;
+}
+
+.box p{
+	text-align: justify;
+	font-size: 15px;
+}
+ul{
+	margin: 0;
+	padding: 0;
+}
+
+.box li{
+	display: inline-block;
+	margin: 6px;
+	list-style: none;
+}
+
+.box li a{
+	color: white;
+	text-decoration: none;
+	font-size: 40px;
+	transition: all ease-in-out 250ms;
+}
+
+.box li a:hover{
+	color: #2874A6;
+}
+
+#my-work{
+	margin:0;
+	margin-top: 150px;
+	padding: 0;
+	width: 100%;
+	background-color: #FFFFFF; 	
+}
+
+.work-head{
+	margin: 5px;
+	padding: 10px;
+	height: 70px;
+	width: 100%;
+	text-align: center;
+}
+.work-head img{
+	height: 40px;
+	width: 40px;
+	margin: 0;
+	padding: 0;
+}
+.work-head h2{
+	margin: 0;
+	padding: 0;
+	text-decoration: underline;
+	color: #154360;
+	font-size: 30px;
+}
+.owl-carousel{
+	margin: 15px;
+	padding: 10px;
+}
+
+.owl-carousel img{
+	border-radius: 5%;
+	margin-right: 20px;
+	margin-left: 10px;
+	height: 200px;
+	width: 50px;
+}
+.owl-carousel h3{
+	text-align: center;
+	text-decoration: none;
+	margin: 3px;
+	color: #5D6D7E;
+	font-size: 20px;
+}
+
+.owl-carousel .item{
+	margin: 10px;
+	width: 300px;
+}
+.owl-carousel h3:hover{
+	color: #154360;
+}
+#my-offer{
+	margin: 0;
+	margin-top: 150px;
+	padding: 0;
+	width: 100%;
+	background-color: #FFFFFF; 	
+}
+
+.offer-head{
+	margin: 5px;
+	padding: 10px;
+	height: 70px;
+	width: 100%;
+	text-align: center;
+}
+.offer-head img{
+	height: 40px;
+	width: 40px;
+	margin: 0;
+	padding: 0;
+}
+.offer-head h2{
+	margin: 0;
+	padding: 0;
+	text-decoration: underline;
+	color: #154360;
+	font-size: 30px;
+}
+
+#my-contact{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background-color: #76D7C4; 	
+}
+
+.contact-head{
+	margin: 5px;
+	padding: 10px;
+	height: 70px;
+	width: 100%;
+	text-align: center;
+}
+.contact-head img{
+	height: 40px;
+	width: 40px;
+	margin: 0;
+	padding: 0;
+}
+.contact-head h2{
+	margin: 0;
+	padding: 0;
+	text-decoration: underline;
+	color: #154360;
+	font-size: 30px;
+}
+form{
+	text-align: center;
+	margin: 15px;
+	padding: 10px;
+}
+fieldset{
+	padding: 10px;
+	width: 100%px;
+	margin: 20px auto;
+	padding: 0;
+}
+input{
+	width: 450px;
+	background-color: #ECF0F1;
+	border-radius: 2%;
+}
+textarea{
+	width: 450px;
+	background-color: #ECF0F1;
+	height: 100px;
+	border-radius: 2%;
+}
+
+button{
+	border-radius: 15%;
+	height: 30px;
+	background-color: #2E4053  
+}
+button p{
+	color: #FFFFFF;
+}
+footer{
+	margin: 0;
+	margin-bottom: 0;
+	height: 150px;
+	width: 100%;
+	text-align: center;
+	background-color: #2E4053;
+}
+footer p{
+	color: white;
+	text-decoration: none;
+}
+footer ul{
+	margin: 0;
+	padding: 0;
+}
+
+footer li{
+	display: inline-block;
+	margin: 10px;
+	list-style: none;
+}
+
+footer li a{
+	color: white;
+	text-decoration: none;
+	font-size: 40px;
+	transition: all ease-in-out 250ms;
+}
+
+footer li a:hover{
+	color: #2874A6;
+}
